@@ -3,18 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "104b81951060950f1bc244d5fad62615",
-"assets/AssetManifest.json": "2d1dbe7a9e46ed4a0ab55ac4597793e3",
+const RESOURCES = {"assets/AssetManifest.bin": "81ca66b58517deb57b1843072fffb97b",
+"assets/AssetManifest.json": "50ded51d2cef45de5dd0e1a018fb010d",
 "assets/assets/BCSC_V3_SourceCode.zip": "19949bad63c9d6642cb006eb341b6076",
 "assets/assets/documents/26c080a9": "e61c0542b756abd650d53ae1bc3950bb",
 "assets/assets/documents/5fc9c70e": "befe1dbb6b92b28038531434149f7e55",
 "assets/assets/documents/a07b0ac2": "3bc9773c1925c342d22d3d360a28eee9",
 "assets/assets/documents/b0fc4b66": "4d4acb7c986e8765a3f55347f67b0b67",
+"assets/assets/documents/BiopsyResult.pdf": "56e2d2b613f349574c3b922e2667ccc6",
 "assets/assets/documents/d4d13bd5": "aa9658523302281efff25e3b1c34a137",
 "assets/assets/documents/Definitions.pdf": "4da669ffb0f20adcfeb1b7adda431b4f",
 "assets/assets/documents/Homepage.pdf": "def611fd39ed198b500117c014f007a9",
 "assets/assets/documents/PrivacyPolicy.pdf": "4bd3c10711faef97b4ae2983f510418c",
-"assets/assets/documents/Resources.pdf": "4d4acb7c986e8765a3f55347f67b0b67",
+"assets/assets/documents/Resources.pdf": "5d20d23b70c2a9aafd484d5e717f55b5",
 "assets/assets/documents/RiskFactors.pdf": "1d66306e9cd554191fab8068f0696179",
 "assets/assets/documents/userManual.pdf": "3236ce4b1f20a013d466e18c84579b99",
 "assets/assets/fonts/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
@@ -33,6 +34,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "104b81951060950f1bc244d5fad62615
 "assets/assets/images/hospital.svg": "844fd7132a7fa441e6ddaca512433027",
 "assets/assets/images/mobileDownloadLogo/googlePlay.png": "21a3ef42c43e9abc5c8a855c9e49a8a7",
 "assets/assets/images/mobileDownloadLogo/iosStore.png": "4cd4b8556ff39db78b7cf78c7e635fc1",
+"assets/assets/images/riskFactors/family-svgrepo-com.svg": "64d5f56ffe2f6309fe3cb247785fb539",
 "assets/assets/images/riskFactors/hierarchy-people-team-svgrepo-com.svg": "adaac633d87266679a05195f319e81f0",
 "assets/assets/images/riskFactors/history-svgrepo-com.svg": "8b6a0034361613100c8f515de86c188c",
 "assets/assets/images/riskFactors/lactation-svgrepo-com.svg": "e333f4109dc4a926a1b507706d158a03",
@@ -60,9 +62,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "104b81951060950f1bc244d5fad62615
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a276209c7d04a8d7fdfe403d003d4b60",
-"/": "a276209c7d04a8d7fdfe403d003d4b60",
-"main.dart.js": "0feca942750f8cdb2e525ba8ea4939a6",
+"index.html": "cdd2b6d0adca970e17a789ae96137b8c",
+"/": "cdd2b6d0adca970e17a789ae96137b8c",
+"main.dart.js": "49ff62c10b615a24dcba06475214d8f8",
 "manifest.json": "c90d92002e1b1e915c55d6890258cf9f",
 "version.json": "a47e180c6ea035114d1d8f8cca00d414"};
 // The application shell files that are downloaded before a service worker can
